@@ -8,8 +8,10 @@
    "target_path": "device/zuk/msm8996-common"
  },
  {
-   "repository": "android_kernel_zuk_msm8996",
-   "target_path": "kernel/zuk/msm8996"
+   "remote": "github",
+   "repository": "DD3Boh/android_kernel_zuk_msm8996",
+   "target_path": "kernel/zuk/msm8996",
+   "revision": "lineage-16.0"
  },
  {
     "repository" : "gcc-prebuilts",
