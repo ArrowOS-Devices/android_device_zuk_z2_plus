@@ -13,7 +13,7 @@
  },
  {
     "repository" : "gcc-prebuilts",
-    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-7.3/"
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-7.3"
  },
  {
     "repository" : "android_packages_resources_devicesettings",
