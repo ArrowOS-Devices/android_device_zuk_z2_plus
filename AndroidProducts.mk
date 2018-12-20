@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_z2_plus.mk
+    $(LOCAL_DIR)/arrow_z2_plus.mk
