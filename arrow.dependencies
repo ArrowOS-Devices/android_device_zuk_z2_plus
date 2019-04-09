@@ -1,22 +1,6 @@
 [
  {
-   "repository": "android_vendor_zuk_z2_plus",
-   "target_path": "vendor/zuk"
- },
- {
    "repository": "android_device_zuk_msm8996-common",
    "target_path": "device/zuk/msm8996-common"
- },
- {
-   "repository": "android_kernel_zuk_msm8996",
-   "target_path": "kernel/zuk/msm8996"
- },
- {
-    "repository" : "gcc-prebuilts",
-    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-7.3"
- },
- {
-    "repository" : "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
  }
 ]
