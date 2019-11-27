@@ -43,6 +43,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := "ZUK/z2_plus/z2_plus:7.0/NRD90M/3.1.117_171110:user/release-keys"
 
 TARGET_VENDOR := zuk
-
-# Opting out of Chromium
-TARGET_EXCLUDE_CHROMIUM := true
